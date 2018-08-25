@@ -13,7 +13,7 @@
 	<frame id="frame2">
 		<liveitem>
 			<text valign="bottom" align="left" text-align="left" text-valign="bottom" line-space="3" ellipsis="on">
-				<str color="#ffffff" size="40" bold="on" shadow="on">Autovpk</str>
+				<str color="#ffffff" size="30" bold="on" shadow="on">Auto Installer Vpk</str>
 			</text>
 		</liveitem>
 	</frame>
@@ -29,7 +29,7 @@
 	<frame id="frame4">
 		<liveitem>
 			<text align="left" text-align="left" word-wrap="off" ellipsis="on">
-				<str size="18" color="#ffffff" shadow="on">v1.02</str>
+				<str size="18" color="#ffffff" shadow="on">v1.03</str>
 			</text>
 		</liveitem>
 	</frame>

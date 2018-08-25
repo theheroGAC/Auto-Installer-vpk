@@ -9,11 +9,14 @@
 	Collaborators: BaltazaR4 & Wzjk.
 ]]
 
+--Show splash ...
+splash.zoom("resources/splash.png")
+back = image.load("resources/back.png")
 color.loadpalette()
 
 local wstrength = wlan.strength()
 if wstrength then
 	if wstrength > 55 then dofile("git/updater.lua") end
-end
 
-dofile("resources/autovpk.lua")									
+dofile("resources/autovpk.lua")
+end								
