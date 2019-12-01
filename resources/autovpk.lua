@@ -3,6 +3,8 @@
 game.install("resources/Adrenaline.vpk")
 game.install("resources/pkgj.vpk")
 game.install("resources/Autoplugin.vpk")
+game.install("resources/Tubevita.vpk")
+game.install("resources/AdrenalineBubbleManager.vpk")
 		os.message("Your PSVita will restart...\nThe vpk have been installed",0)
 		os.delay(2500)
 	buttons.homepopup(1)
